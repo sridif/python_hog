@@ -1,0 +1,10 @@
+SETUP:
+  
+  sudo apt-get install python-numpy python-opencv  
+
+TODO : 
+
+  Sync it to human eva dataset. 
+
+  
+
